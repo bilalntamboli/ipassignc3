@@ -25,7 +25,7 @@ session_start();
   </head>
   <body>
 
-     <!-- form starts -->
+     <!-- Product starts -->
 
     <div class="main">
        <div class="main_two ">
