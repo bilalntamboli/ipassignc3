@@ -5,7 +5,7 @@
 
 <img src="https://i.ibb.co/2ZRLr4k/Screenshot-33.png"><br>
 
-<b>2) then you Need to choose the prodcts,price & quantity<b><br>
+<b>2) then you Need to choose the products,price & quantity<b><br>
 
 <img src="https://i.ibb.co/P6T1ctF/Screenshot-34.png"><br>
 
